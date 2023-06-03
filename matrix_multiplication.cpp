@@ -5,6 +5,8 @@ using namespace std;
 int main()
 {
     int rows1, cols1, rows2, cols2, sum;
+
+    // taking input rows and columns of first and second matrices
     cout<<"Enter number of rows in first matrix: ";
     cin>>rows1;
     cout<<"Enter number of columns in first matrix: ";
