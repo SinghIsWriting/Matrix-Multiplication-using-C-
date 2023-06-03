@@ -74,13 +74,13 @@ int main()
         {
             delete[] A[i];
         }
-        delete[] A;
+        delete[] A;   // deleting memory of matrix A
 
         for (int i = 0; i < rows2; i++)
         {
             delete[] B[i];
         }
-        delete[] B;
+        delete[] B;   // deleting memory of matrix B
         
     }
     else{
