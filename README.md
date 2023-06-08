@@ -1,5 +1,6 @@
 # Matrix-Multiplication-using-C-
-Matrix Multiplication This is a C++ program that performs matrix multiplication. Given two matrices, it calculates their product matrix.
+Matrix Multiplication 
+This is a C++ program that performs matrix multiplication. Given two matrices, it calculates their product matrix.
 
 Prerequisites
 * C++ compiler (e.g., g++)
