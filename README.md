@@ -8,9 +8,10 @@ Prerequisites
 
 How to Run
 1. Clone the repository or download the source code files.
-2. Open a terminal or command prompt.
-3. Navigate to the directory where the source code files are located.
-4. Compile the code using the C++ compiler.
+2. git clone https://github.com/SinghIsWriting/Matrix-Multiplication-using-C-.git
+3. Open a terminal or command prompt.
+4. Navigate to the directory where the source code files are located.
+5. Compile the code using the C++ compiler.
 For example:
 g++ matrix_multiplication.cpp -o matrix_multiplication
 
